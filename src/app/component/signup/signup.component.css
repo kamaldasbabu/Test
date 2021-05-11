@@ -1,0 +1,9 @@
+.btn {
+    background-color: rgb(134, 228, 125);
+    border-radius: 1%;
+    width: 100%;
+    color: #fff;
+}
+.max-width {
+    width: 70%;
+}
